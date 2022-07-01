@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ATP2021_Lab10" />
+        <module name="MyGUI" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ATP2021_Lab10" target="15" />
+      <module name="MyGUI" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
